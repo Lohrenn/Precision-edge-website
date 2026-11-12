@@ -64,5 +64,5 @@
 ## ⚡ Environment & Live Access
 
 - 🌐 **Live Web Deployment:** [https://lohrenn.github.io/Precision-Edge](https://lohrenn.github.io/Precision-Edge)
-- 💻 **Local Development Server:** `http://127.0.0.1:5500/Precision-edge-website/index.html#hero` (Served via VS Code Live Server)
+- 💻 **Local Development Server:** `http://127.0.0.1:5500/Precision-edge-website/index.html#hero` (Served via Live Server)
 
