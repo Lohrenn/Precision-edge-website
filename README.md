@@ -61,9 +61,8 @@
 
 ---
 
-## 🌐 Deployment
+## ⚡ Environment & Live Access
 
-This project is automatically deployed to the web via **GitHub Pages**. 
+- 🌐 **Live Web Deployment:** [https://lohrenn.github.io/Precision-Edge](https://lohrenn.github.io/Precision-Edge)
+- 💻 **Local Development Server:** `http://127.0.0.1:5500/Precision-edge-website/index.html#hero` (Served via VS Code Live Server)
 
-To view the live production environment, visit:  
-**https://lohrenn.github.io/Precision-Edge**
